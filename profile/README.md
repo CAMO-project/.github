@@ -34,11 +34,11 @@ Additional(Crawler)
 
 ### 🙋🏻 Member
 
-👨🏻‍💻 **[지찬우](https://github.com/jcw1031)** : BackEnd (Server, IOS App Networking)   
+👨🏻‍💻 **[지찬우](https://github.com/jcw1031)** : BackEnd (Server)   
 
-👩🏻‍💻 **Julia Jang** : FrontEnd (UI/UX Design, IOS App View)   
+👩🏻‍💻 **[장세희](https://github.com/julia8024)** : FrontEnd (UI/UX Design, IOS App Develop)   
 
-👩🏻‍💻 **chaeryeon823** : DB, Crawler   
+👩🏻‍💻 **chaeryeon823** : DB, Crawler
 
 👨🏻‍💻 **skh990427** : DB
 
