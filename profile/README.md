@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/69714701/207836189-39c3221a-8eb9-44e1-bae2-2a2777e8b5e3.jpg"  width="200" height="200"/>
+![camoImage](https://github.com/CAMO-project/.github/assets/79641953/a3bb1432-5d32-45ef-8de6-28b89c6116f8)
+
+<br>
 
 # CAMO Project
 
@@ -34,13 +36,11 @@ Additional(Crawler)
 
 ### 🙋🏻 Member
 
-👨🏻‍💻 **[지찬우](https://github.com/jcw1031)** : BackEnd (Server)   
-
-👩🏻‍💻 **[장세희](https://github.com/julia8024)** : FrontEnd (UI/UX Design, IOS App Develop)   
-
-👩🏻‍💻 **chaeryeon823** : DB, Crawler
-
-👨🏻‍💻 **skh990427** : DB
+|                  FrontEnd                  |                   FrontEnd                    |                  BackEnd                   |                  BackEnd                   |
+| :-----------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/79641953?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/87600308?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/69714701?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/84136901?v=4" width="100px;" alt=""/> |
+|     [💜 장세희](https://github.com/julia8024)     |     [🐰 강채련](https://github.com/chaeryeon823)     |     [👍 지찬우](https://github.com/jcw1031)     |     [👑 송광호](https://github.com/skh990427)     |
+| UI/UX Design <br> iOS Develop | Crawler <br> aOS Develop | Server <br> DataBase | Server <br> DataBase |
 
 ---
 
