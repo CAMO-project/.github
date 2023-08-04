@@ -12,7 +12,7 @@
 
 BackEnd   
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
     
 FrontEnd   
 <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat&logo=Swift&logoColor=white"/></a>
